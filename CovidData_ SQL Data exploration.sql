@@ -1,7 +1,7 @@
 --Dataset: OurWorldinData/Covid deaths
 --		   OurWorldinData/Covid deaths
 --Time line: Jan 28, 2020 - 3rd Dec, 2020
---My First Project
+
 
 
 --select *
